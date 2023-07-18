@@ -1,8 +1,0 @@
-# ninja log v5
-4	63	1689708130070576344	CMakeFiles/argon2.dir/src/thread.c.o	3bc95fff7e487c71
-2	111	1689708130118576312	CMakeFiles/argon2.dir/src/argon2.c.o	1bb1670f52c68bc6
-3	112	1689708130122576308	CMakeFiles/argon2.dir/src/encoding.c.o	aa38e6f6822b34e0
-1	116	1689708130126576307	CMakeFiles/argon2.dir/src/blake2/blake2b.c.o	c125174baed3e2b3
-2	168	1689708130178576272	CMakeFiles/argon2.dir/src/core.c.o	ae2ffaeaa381b21c
-3	172	1689708130178576272	CMakeFiles/argon2.dir/src/ref.c.o	e291b2a4c80c9bae
-172	322	1689708130322576177	libargon2.a	2fb8bdf79a1e7dfb
